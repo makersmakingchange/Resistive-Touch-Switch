@@ -4,7 +4,7 @@ The Resistive Touch Switch is an open-source assistive switch that is activated 
 
 ## More info at
 
-- [Makers Making Change Project Page](https://www.makersmakingchange.com/project/resisitive-touch-switch/)
+- [Makers Making Change Project Page](https://www.makersmakingchange.com/project/resistive-touch-switch/)
 - [Makers Making Change Forum Thread](https://www.forum.makersmakingchange.com)
 
 
@@ -26,4 +26,5 @@ We are committed to creating a network of volunteer makers who support people wi
 
 ## Contact Us
 
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project/resisitive-touch-switch/), [MMC Forum thread](https://www.forum.makersmakingchange.com), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project/resistive-touch-switch/), [MMC Forum thread](https://www.forum.makersmakingchange.com), contact info@makersmakingchange.com
+
