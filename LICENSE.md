@@ -1,4 +1,4 @@
-This file includes licensing information for parts of the Light Proximity Switch.
+This file includes licensing information for parts of the Resistive Touch Switch.
 
 Everything needed or used to design, make, test, or prepare the Light Proximity Switch is licensed under the CERN 2.0 Persmissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) .
 
@@ -580,4 +580,3 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
-
