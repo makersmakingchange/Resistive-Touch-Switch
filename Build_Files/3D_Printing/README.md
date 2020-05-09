@@ -1,8 +1,12 @@
 # 3D Print Files
-| File                               | Resolution | Infill | Support |
-|------------------------------------|------------|--------|---------|
-| Light_Proximity_Switch_Base        | 0.2 mm     | 20%    | No      |
-| Light_Proximity_Switch_Bottom_Case | 0.2 mm     | 20%    | No      |
-| Light_Proximity_Switch_Top_Case    | 0.2 mm     | 20%    | Yes     |
+| File                               | QTY | Resolution | Infill | Support |
+|------------------------------------|-----|------------|--------|---------|
+| RTS_Circular_Touch_Pad_Base        | 1   | 0.2 mm     | 20%    | No      |
+| RTS_Circular_Touch_Pad_Top         | 1   | 0.2 mm     | 20%    | No      |
+| RTS_Hub_Base                       | 1   | 0.2 mm     | 20%    | No      |
+| RTS_Hub_Switch_Slider              | 1   | 0.2 mm     | 20%    | No      |
+| RTS_Hub_Top                        | 1   | 0.2 mm     | 20%    | No      |
+| RTS_RectangularPad_Base            | 1   | 0.2 mm     | 20%    | No      |
+| RTS_RectangularPad_Top             | 1   | 0.2 mm     | 20%    | No      |
 
-![Screenshot of print orientation](LPS_Print_Orientation_v1.0.jpg)
+![Screenshot of print orientation](RTS_3DPrint_Orientation.jpg)
